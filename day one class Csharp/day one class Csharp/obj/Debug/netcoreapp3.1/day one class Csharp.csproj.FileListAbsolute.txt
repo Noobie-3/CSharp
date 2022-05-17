@@ -1,0 +1,14 @@
+C:\Users\jstone31\Documents\CSharp\day one class Csharp\day one class Csharp\bin\Debug\netcoreapp3.1\day one class Csharp.exe
+C:\Users\jstone31\Documents\CSharp\day one class Csharp\day one class Csharp\bin\Debug\netcoreapp3.1\day one class Csharp.deps.json
+C:\Users\jstone31\Documents\CSharp\day one class Csharp\day one class Csharp\bin\Debug\netcoreapp3.1\day one class Csharp.runtimeconfig.json
+C:\Users\jstone31\Documents\CSharp\day one class Csharp\day one class Csharp\bin\Debug\netcoreapp3.1\day one class Csharp.runtimeconfig.dev.json
+C:\Users\jstone31\Documents\CSharp\day one class Csharp\day one class Csharp\bin\Debug\netcoreapp3.1\day one class Csharp.dll
+C:\Users\jstone31\Documents\CSharp\day one class Csharp\day one class Csharp\bin\Debug\netcoreapp3.1\day one class Csharp.pdb
+C:\Users\jstone31\Documents\CSharp\day one class Csharp\day one class Csharp\obj\Debug\netcoreapp3.1\day one class Csharp.csproj.AssemblyReference.cache
+C:\Users\jstone31\Documents\CSharp\day one class Csharp\day one class Csharp\obj\Debug\netcoreapp3.1\day one class Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jstone31\Documents\CSharp\day one class Csharp\day one class Csharp\obj\Debug\netcoreapp3.1\day one class Csharp.AssemblyInfoInputs.cache
+C:\Users\jstone31\Documents\CSharp\day one class Csharp\day one class Csharp\obj\Debug\netcoreapp3.1\day one class Csharp.AssemblyInfo.cs
+C:\Users\jstone31\Documents\CSharp\day one class Csharp\day one class Csharp\obj\Debug\netcoreapp3.1\day one class Csharp.csproj.CoreCompileInputs.cache
+C:\Users\jstone31\Documents\CSharp\day one class Csharp\day one class Csharp\obj\Debug\netcoreapp3.1\day one class Csharp.dll
+C:\Users\jstone31\Documents\CSharp\day one class Csharp\day one class Csharp\obj\Debug\netcoreapp3.1\day one class Csharp.pdb
+C:\Users\jstone31\Documents\CSharp\day one class Csharp\day one class Csharp\obj\Debug\netcoreapp3.1\day one class Csharp.genruntimeconfig.cache
