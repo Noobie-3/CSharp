@@ -1,0 +1,16 @@
+C:\Users\jstone31\Documents\CSharp\CSharpo Homeworko 1\CSharpo Homeworko 1\bin\Debug\net5.0\CSharpo Homeworko 1.exe
+C:\Users\jstone31\Documents\CSharp\CSharpo Homeworko 1\CSharpo Homeworko 1\bin\Debug\net5.0\CSharpo Homeworko 1.deps.json
+C:\Users\jstone31\Documents\CSharp\CSharpo Homeworko 1\CSharpo Homeworko 1\bin\Debug\net5.0\CSharpo Homeworko 1.runtimeconfig.json
+C:\Users\jstone31\Documents\CSharp\CSharpo Homeworko 1\CSharpo Homeworko 1\bin\Debug\net5.0\CSharpo Homeworko 1.runtimeconfig.dev.json
+C:\Users\jstone31\Documents\CSharp\CSharpo Homeworko 1\CSharpo Homeworko 1\bin\Debug\net5.0\CSharpo Homeworko 1.dll
+C:\Users\jstone31\Documents\CSharp\CSharpo Homeworko 1\CSharpo Homeworko 1\bin\Debug\net5.0\ref\CSharpo Homeworko 1.dll
+C:\Users\jstone31\Documents\CSharp\CSharpo Homeworko 1\CSharpo Homeworko 1\bin\Debug\net5.0\CSharpo Homeworko 1.pdb
+C:\Users\jstone31\Documents\CSharp\CSharpo Homeworko 1\CSharpo Homeworko 1\obj\Debug\net5.0\CSharpo Homeworko 1.csproj.AssemblyReference.cache
+C:\Users\jstone31\Documents\CSharp\CSharpo Homeworko 1\CSharpo Homeworko 1\obj\Debug\net5.0\CSharpo Homeworko 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jstone31\Documents\CSharp\CSharpo Homeworko 1\CSharpo Homeworko 1\obj\Debug\net5.0\CSharpo Homeworko 1.AssemblyInfoInputs.cache
+C:\Users\jstone31\Documents\CSharp\CSharpo Homeworko 1\CSharpo Homeworko 1\obj\Debug\net5.0\CSharpo Homeworko 1.AssemblyInfo.cs
+C:\Users\jstone31\Documents\CSharp\CSharpo Homeworko 1\CSharpo Homeworko 1\obj\Debug\net5.0\CSharpo Homeworko 1.csproj.CoreCompileInputs.cache
+C:\Users\jstone31\Documents\CSharp\CSharpo Homeworko 1\CSharpo Homeworko 1\obj\Debug\net5.0\CSharpo Homeworko 1.dll
+C:\Users\jstone31\Documents\CSharp\CSharpo Homeworko 1\CSharpo Homeworko 1\obj\Debug\net5.0\ref\CSharpo Homeworko 1.dll
+C:\Users\jstone31\Documents\CSharp\CSharpo Homeworko 1\CSharpo Homeworko 1\obj\Debug\net5.0\CSharpo Homeworko 1.pdb
+C:\Users\jstone31\Documents\CSharp\CSharpo Homeworko 1\CSharpo Homeworko 1\obj\Debug\net5.0\CSharpo Homeworko 1.genruntimeconfig.cache
