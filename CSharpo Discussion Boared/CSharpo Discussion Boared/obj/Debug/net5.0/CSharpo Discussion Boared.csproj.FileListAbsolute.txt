@@ -1,0 +1,16 @@
+C:\Users\jstone31\Documents\CSharp\CSharpo Discussion Boared\CSharpo Discussion Boared\bin\Debug\net5.0\CSharpo Discussion Boared.exe
+C:\Users\jstone31\Documents\CSharp\CSharpo Discussion Boared\CSharpo Discussion Boared\bin\Debug\net5.0\CSharpo Discussion Boared.deps.json
+C:\Users\jstone31\Documents\CSharp\CSharpo Discussion Boared\CSharpo Discussion Boared\bin\Debug\net5.0\CSharpo Discussion Boared.runtimeconfig.json
+C:\Users\jstone31\Documents\CSharp\CSharpo Discussion Boared\CSharpo Discussion Boared\bin\Debug\net5.0\CSharpo Discussion Boared.runtimeconfig.dev.json
+C:\Users\jstone31\Documents\CSharp\CSharpo Discussion Boared\CSharpo Discussion Boared\bin\Debug\net5.0\CSharpo Discussion Boared.dll
+C:\Users\jstone31\Documents\CSharp\CSharpo Discussion Boared\CSharpo Discussion Boared\bin\Debug\net5.0\ref\CSharpo Discussion Boared.dll
+C:\Users\jstone31\Documents\CSharp\CSharpo Discussion Boared\CSharpo Discussion Boared\bin\Debug\net5.0\CSharpo Discussion Boared.pdb
+C:\Users\jstone31\Documents\CSharp\CSharpo Discussion Boared\CSharpo Discussion Boared\obj\Debug\net5.0\CSharpo Discussion Boared.csproj.AssemblyReference.cache
+C:\Users\jstone31\Documents\CSharp\CSharpo Discussion Boared\CSharpo Discussion Boared\obj\Debug\net5.0\CSharpo Discussion Boared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jstone31\Documents\CSharp\CSharpo Discussion Boared\CSharpo Discussion Boared\obj\Debug\net5.0\CSharpo Discussion Boared.AssemblyInfoInputs.cache
+C:\Users\jstone31\Documents\CSharp\CSharpo Discussion Boared\CSharpo Discussion Boared\obj\Debug\net5.0\CSharpo Discussion Boared.AssemblyInfo.cs
+C:\Users\jstone31\Documents\CSharp\CSharpo Discussion Boared\CSharpo Discussion Boared\obj\Debug\net5.0\CSharpo Discussion Boared.csproj.CoreCompileInputs.cache
+C:\Users\jstone31\Documents\CSharp\CSharpo Discussion Boared\CSharpo Discussion Boared\obj\Debug\net5.0\CSharpo Discussion Boared.dll
+C:\Users\jstone31\Documents\CSharp\CSharpo Discussion Boared\CSharpo Discussion Boared\obj\Debug\net5.0\ref\CSharpo Discussion Boared.dll
+C:\Users\jstone31\Documents\CSharp\CSharpo Discussion Boared\CSharpo Discussion Boared\obj\Debug\net5.0\CSharpo Discussion Boared.pdb
+C:\Users\jstone31\Documents\CSharp\CSharpo Discussion Boared\CSharpo Discussion Boared\obj\Debug\net5.0\CSharpo Discussion Boared.genruntimeconfig.cache
