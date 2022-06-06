@@ -34,7 +34,18 @@ namespace Nurito_company {
             //receipt
 
 
-            Console.WriteLine("\t\t\t\t\t|||||||Your Receipt|||||||");
+            Console.WriteLine("\t\t\t\t\t|||||||||Your Receipt|||||||||\n" +
+                             "\t\t\t\t\t||__________________________||\n\t\t\t\t\t||                          ||\n" +
+                              "\t\t\t\t\t||  Beef        count: " + BeefIntAmount + "    ||\n" +
+                              "\t\t\t\t\t||  Bean        count: " + BeanIntAmount + "    ||\n" +
+                              "\t\t\t\t\t||  Supreme     count: " + SupremeIntAmount + "    ||\n" +
+                              "\t\t\t\t\t||  Beef        count: " + BeefIntAmount + "    ||\n" +
+                              "\t\t\t\t\t||  Beef        count: " + BeefIntAmount + "    ||\n" +
+                              "\t\t\t\t\t||  Beef        count: " + BeefIntAmount + "    ||\n" +
+                              "\t\t\t\t\t||__________________________||");
+
+
+                      
             
         }
     }

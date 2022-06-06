@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jstone31\\Documents\\CSharp\\Nurito company\\Nurito company\\Nurito company.csproj": {}
+    "D:\\CSharp\\Nurito company\\Nurito company\\Nurito company.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jstone31\\Documents\\CSharp\\Nurito company\\Nurito company\\Nurito company.csproj": {
+    "D:\\CSharp\\Nurito company\\Nurito company\\Nurito company.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jstone31\\Documents\\CSharp\\Nurito company\\Nurito company\\Nurito company.csproj",
+        "projectUniqueName": "D:\\CSharp\\Nurito company\\Nurito company\\Nurito company.csproj",
         "projectName": "Nurito company",
-        "projectPath": "C:\\Users\\jstone31\\Documents\\CSharp\\Nurito company\\Nurito company\\Nurito company.csproj",
-        "packagesPath": "C:\\Users\\jstone31\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jstone31\\Documents\\CSharp\\Nurito company\\Nurito company\\obj\\",
+        "projectPath": "D:\\CSharp\\Nurito company\\Nurito company\\Nurito company.csproj",
+        "packagesPath": "C:\\Users\\Jed\\.nuget\\packages\\",
+        "outputPath": "D:\\CSharp\\Nurito company\\Nurito company\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jstone31\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Jed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -60,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

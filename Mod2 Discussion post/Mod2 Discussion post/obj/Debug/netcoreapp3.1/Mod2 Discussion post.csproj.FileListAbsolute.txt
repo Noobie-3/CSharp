@@ -1,0 +1,14 @@
+D:\CSharp\Mod2 Discussion post\Mod2 Discussion post\bin\Debug\netcoreapp3.1\Mod2 Discussion post.exe
+D:\CSharp\Mod2 Discussion post\Mod2 Discussion post\bin\Debug\netcoreapp3.1\Mod2 Discussion post.deps.json
+D:\CSharp\Mod2 Discussion post\Mod2 Discussion post\bin\Debug\netcoreapp3.1\Mod2 Discussion post.runtimeconfig.json
+D:\CSharp\Mod2 Discussion post\Mod2 Discussion post\bin\Debug\netcoreapp3.1\Mod2 Discussion post.runtimeconfig.dev.json
+D:\CSharp\Mod2 Discussion post\Mod2 Discussion post\bin\Debug\netcoreapp3.1\Mod2 Discussion post.dll
+D:\CSharp\Mod2 Discussion post\Mod2 Discussion post\bin\Debug\netcoreapp3.1\Mod2 Discussion post.pdb
+D:\CSharp\Mod2 Discussion post\Mod2 Discussion post\obj\Debug\netcoreapp3.1\Mod2 Discussion post.csproj.AssemblyReference.cache
+D:\CSharp\Mod2 Discussion post\Mod2 Discussion post\obj\Debug\netcoreapp3.1\Mod2 Discussion post.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Mod2 Discussion post\Mod2 Discussion post\obj\Debug\netcoreapp3.1\Mod2 Discussion post.AssemblyInfoInputs.cache
+D:\CSharp\Mod2 Discussion post\Mod2 Discussion post\obj\Debug\netcoreapp3.1\Mod2 Discussion post.AssemblyInfo.cs
+D:\CSharp\Mod2 Discussion post\Mod2 Discussion post\obj\Debug\netcoreapp3.1\Mod2 Discussion post.csproj.CoreCompileInputs.cache
+D:\CSharp\Mod2 Discussion post\Mod2 Discussion post\obj\Debug\netcoreapp3.1\Mod2 Discussion post.dll
+D:\CSharp\Mod2 Discussion post\Mod2 Discussion post\obj\Debug\netcoreapp3.1\Mod2 Discussion post.pdb
+D:\CSharp\Mod2 Discussion post\Mod2 Discussion post\obj\Debug\netcoreapp3.1\Mod2 Discussion post.genruntimeconfig.cache
