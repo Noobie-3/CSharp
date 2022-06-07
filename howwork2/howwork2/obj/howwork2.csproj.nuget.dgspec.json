@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jstone31\\source\\repos\\CSharp\\howwork2\\howwork2\\howwork2.csproj": {}
+    "C:\\Users\\jstone31\\Documents\\CSharp\\howwork2\\howwork2\\howwork2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jstone31\\source\\repos\\CSharp\\howwork2\\howwork2\\howwork2.csproj": {
+    "C:\\Users\\jstone31\\Documents\\CSharp\\howwork2\\howwork2\\howwork2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jstone31\\source\\repos\\CSharp\\howwork2\\howwork2\\howwork2.csproj",
+        "projectUniqueName": "C:\\Users\\jstone31\\Documents\\CSharp\\howwork2\\howwork2\\howwork2.csproj",
         "projectName": "howwork2",
-        "projectPath": "C:\\Users\\jstone31\\source\\repos\\CSharp\\howwork2\\howwork2\\howwork2.csproj",
+        "projectPath": "C:\\Users\\jstone31\\Documents\\CSharp\\howwork2\\howwork2\\howwork2.csproj",
         "packagesPath": "C:\\Users\\jstone31\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jstone31\\source\\repos\\CSharp\\howwork2\\howwork2\\obj\\",
+        "outputPath": "C:\\Users\\jstone31\\Documents\\CSharp\\howwork2\\howwork2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

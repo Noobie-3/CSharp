@@ -20,39 +20,44 @@ namespace test_ {
             Console.WriteLine("The Answer is: " + (num / amount));
         }
         static void Main(string[] args) {
-            string quit = "quit";
-            while (quit == "quit")
+            string quit = "no";
+            while (quit == "no") { 
 
                 //gets the numbers to use
                 Console.WriteLine("Please input the first number that you will be working with: ");
-            int num = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("Please input the second number that you will be working with: ");
-            int amount = Int32.Parse(Console.ReadLine());
+                int num = Int32.Parse(Console.ReadLine());
+                Console.WriteLine("Please input the second number that you will be working with: ");
+                int amount = Int32.Parse(Console.ReadLine());
 
-            //gets what they wanna do with numbers
-            string choice = Console.ReadLine();
+                //gets what they wanna do with numbers
+                Console.WriteLine("Please input the what you would like to do with these numbers");
+                string choice = Console.ReadLine();
 
-            //input validation for choice
-            while (choice != "Add" && choice != "1" && choice != "Subtract" && choice != "2" && choice != "Multiply" && choice != "3" && choice != "Divide" && choice != "4") {
+                //input validation for choice
+                while (choice != "Add" && choice != "add" && choice != "Subtract" && choice != "subtract" && choice != "Multiply" && choice != "multiply" && choice != "Divide" && choice != "divide" && choice != "End" && choice != "end") {
 
-                Console.WriteLine("Not a valid Input, Please Try again: ");
-                choice = Console.ReadLine();
-            }
+                    Console.WriteLine("Not a valid Input, Please Try again: ");
+                    choice = Console.ReadLine();
 
-            //if input valid do the equation
-            switch (choice) {
-                case "Add" or "1":
-                    addition(num, amount);
-                    break;
-                case "Subtract" or "2":
-                    Subtraction(num, amount);
-                    break;
-                case "Multiply" or "3":
-                    Multi(num, amount);
-                    break;
-                case "Divide" or "4":
-                    divide(num, amount);
-                    break;
+                }
+                    //if input valid do the equation
+                    switch (choice) {
+                        case "Add" or "add":
+                            addition(num, amount);
+                            break;
+                        case "Subtract" or "subtract":
+                            Subtraction(num, amount);
+                            break;
+                        case "Multiply" or "multiply":
+                            Multi(num, amount);
+                            break;
+                        case "Divide" or "divide":
+                            divide(num, amount);
+                            break;
+                        case "End" or "end":
+                            Environment.Exit(1);
+                            break;
+                    }
             }
 
         }

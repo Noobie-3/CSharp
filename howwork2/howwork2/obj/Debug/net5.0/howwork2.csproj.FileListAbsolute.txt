@@ -1,0 +1,16 @@
+C:\Users\jstone31\Documents\CSharp\howwork2\howwork2\bin\Debug\net5.0\howwork2.exe
+C:\Users\jstone31\Documents\CSharp\howwork2\howwork2\bin\Debug\net5.0\howwork2.deps.json
+C:\Users\jstone31\Documents\CSharp\howwork2\howwork2\bin\Debug\net5.0\howwork2.runtimeconfig.json
+C:\Users\jstone31\Documents\CSharp\howwork2\howwork2\bin\Debug\net5.0\howwork2.runtimeconfig.dev.json
+C:\Users\jstone31\Documents\CSharp\howwork2\howwork2\bin\Debug\net5.0\howwork2.dll
+C:\Users\jstone31\Documents\CSharp\howwork2\howwork2\bin\Debug\net5.0\ref\howwork2.dll
+C:\Users\jstone31\Documents\CSharp\howwork2\howwork2\bin\Debug\net5.0\howwork2.pdb
+C:\Users\jstone31\Documents\CSharp\howwork2\howwork2\obj\Debug\net5.0\howwork2.csproj.AssemblyReference.cache
+C:\Users\jstone31\Documents\CSharp\howwork2\howwork2\obj\Debug\net5.0\howwork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jstone31\Documents\CSharp\howwork2\howwork2\obj\Debug\net5.0\howwork2.AssemblyInfoInputs.cache
+C:\Users\jstone31\Documents\CSharp\howwork2\howwork2\obj\Debug\net5.0\howwork2.AssemblyInfo.cs
+C:\Users\jstone31\Documents\CSharp\howwork2\howwork2\obj\Debug\net5.0\howwork2.csproj.CoreCompileInputs.cache
+C:\Users\jstone31\Documents\CSharp\howwork2\howwork2\obj\Debug\net5.0\howwork2.dll
+C:\Users\jstone31\Documents\CSharp\howwork2\howwork2\obj\Debug\net5.0\ref\howwork2.dll
+C:\Users\jstone31\Documents\CSharp\howwork2\howwork2\obj\Debug\net5.0\howwork2.pdb
+C:\Users\jstone31\Documents\CSharp\howwork2\howwork2\obj\Debug\net5.0\howwork2.genruntimeconfig.cache
