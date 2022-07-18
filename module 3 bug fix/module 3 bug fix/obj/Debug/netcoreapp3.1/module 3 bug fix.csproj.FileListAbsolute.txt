@@ -1,0 +1,14 @@
+D:\CSharp\module 3 bug fix\module 3 bug fix\obj\Debug\netcoreapp3.1\module 3 bug fix.csproj.AssemblyReference.cache
+D:\CSharp\module 3 bug fix\module 3 bug fix\obj\Debug\netcoreapp3.1\module 3 bug fix.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\module 3 bug fix\module 3 bug fix\obj\Debug\netcoreapp3.1\module 3 bug fix.AssemblyInfoInputs.cache
+D:\CSharp\module 3 bug fix\module 3 bug fix\obj\Debug\netcoreapp3.1\module 3 bug fix.AssemblyInfo.cs
+D:\CSharp\module 3 bug fix\module 3 bug fix\obj\Debug\netcoreapp3.1\module 3 bug fix.csproj.CoreCompileInputs.cache
+D:\CSharp\module 3 bug fix\module 3 bug fix\bin\Debug\netcoreapp3.1\module 3 bug fix.exe
+D:\CSharp\module 3 bug fix\module 3 bug fix\bin\Debug\netcoreapp3.1\module 3 bug fix.deps.json
+D:\CSharp\module 3 bug fix\module 3 bug fix\bin\Debug\netcoreapp3.1\module 3 bug fix.runtimeconfig.json
+D:\CSharp\module 3 bug fix\module 3 bug fix\bin\Debug\netcoreapp3.1\module 3 bug fix.runtimeconfig.dev.json
+D:\CSharp\module 3 bug fix\module 3 bug fix\bin\Debug\netcoreapp3.1\module 3 bug fix.dll
+D:\CSharp\module 3 bug fix\module 3 bug fix\bin\Debug\netcoreapp3.1\module 3 bug fix.pdb
+D:\CSharp\module 3 bug fix\module 3 bug fix\obj\Debug\netcoreapp3.1\module 3 bug fix.dll
+D:\CSharp\module 3 bug fix\module 3 bug fix\obj\Debug\netcoreapp3.1\module 3 bug fix.pdb
+D:\CSharp\module 3 bug fix\module 3 bug fix\obj\Debug\netcoreapp3.1\module 3 bug fix.genruntimeconfig.cache

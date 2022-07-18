@@ -1,0 +1,14 @@
+D:\CSharp\Module 4 Project\Module 4 Project\bin\Debug\netcoreapp3.1\Module 4 Project.exe
+D:\CSharp\Module 4 Project\Module 4 Project\bin\Debug\netcoreapp3.1\Module 4 Project.deps.json
+D:\CSharp\Module 4 Project\Module 4 Project\bin\Debug\netcoreapp3.1\Module 4 Project.runtimeconfig.json
+D:\CSharp\Module 4 Project\Module 4 Project\bin\Debug\netcoreapp3.1\Module 4 Project.runtimeconfig.dev.json
+D:\CSharp\Module 4 Project\Module 4 Project\bin\Debug\netcoreapp3.1\Module 4 Project.dll
+D:\CSharp\Module 4 Project\Module 4 Project\bin\Debug\netcoreapp3.1\Module 4 Project.pdb
+D:\CSharp\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.csproj.AssemblyReference.cache
+D:\CSharp\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.AssemblyInfoInputs.cache
+D:\CSharp\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.AssemblyInfo.cs
+D:\CSharp\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.csproj.CoreCompileInputs.cache
+D:\CSharp\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.dll
+D:\CSharp\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.pdb
+D:\CSharp\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.genruntimeconfig.cache

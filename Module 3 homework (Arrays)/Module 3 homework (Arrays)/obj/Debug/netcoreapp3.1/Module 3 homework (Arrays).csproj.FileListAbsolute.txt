@@ -1,0 +1,14 @@
+D:\CSharp\Module 3 homework (Arrays)\Module 3 homework (Arrays)\bin\Debug\netcoreapp3.1\Module 3 homework (Arrays).exe
+D:\CSharp\Module 3 homework (Arrays)\Module 3 homework (Arrays)\bin\Debug\netcoreapp3.1\Module 3 homework (Arrays).deps.json
+D:\CSharp\Module 3 homework (Arrays)\Module 3 homework (Arrays)\bin\Debug\netcoreapp3.1\Module 3 homework (Arrays).runtimeconfig.json
+D:\CSharp\Module 3 homework (Arrays)\Module 3 homework (Arrays)\bin\Debug\netcoreapp3.1\Module 3 homework (Arrays).runtimeconfig.dev.json
+D:\CSharp\Module 3 homework (Arrays)\Module 3 homework (Arrays)\bin\Debug\netcoreapp3.1\Module 3 homework (Arrays).dll
+D:\CSharp\Module 3 homework (Arrays)\Module 3 homework (Arrays)\bin\Debug\netcoreapp3.1\Module 3 homework (Arrays).pdb
+D:\CSharp\Module 3 homework (Arrays)\Module 3 homework (Arrays)\obj\Debug\netcoreapp3.1\Module 3 homework (Arrays).csproj.AssemblyReference.cache
+D:\CSharp\Module 3 homework (Arrays)\Module 3 homework (Arrays)\obj\Debug\netcoreapp3.1\Module 3 homework (Arrays).GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Module 3 homework (Arrays)\Module 3 homework (Arrays)\obj\Debug\netcoreapp3.1\Module 3 homework (Arrays).AssemblyInfoInputs.cache
+D:\CSharp\Module 3 homework (Arrays)\Module 3 homework (Arrays)\obj\Debug\netcoreapp3.1\Module 3 homework (Arrays).AssemblyInfo.cs
+D:\CSharp\Module 3 homework (Arrays)\Module 3 homework (Arrays)\obj\Debug\netcoreapp3.1\Module 3 homework (Arrays).csproj.CoreCompileInputs.cache
+D:\CSharp\Module 3 homework (Arrays)\Module 3 homework (Arrays)\obj\Debug\netcoreapp3.1\Module 3 homework (Arrays).dll
+D:\CSharp\Module 3 homework (Arrays)\Module 3 homework (Arrays)\obj\Debug\netcoreapp3.1\Module 3 homework (Arrays).pdb
+D:\CSharp\Module 3 homework (Arrays)\Module 3 homework (Arrays)\obj\Debug\netcoreapp3.1\Module 3 homework (Arrays).genruntimeconfig.cache

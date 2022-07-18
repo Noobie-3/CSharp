@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Module 3 homework (Arrays)/1.0.0": {
+        "runtime": {
+          "Module 3 homework (Arrays).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Module 3 homework (Arrays)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
