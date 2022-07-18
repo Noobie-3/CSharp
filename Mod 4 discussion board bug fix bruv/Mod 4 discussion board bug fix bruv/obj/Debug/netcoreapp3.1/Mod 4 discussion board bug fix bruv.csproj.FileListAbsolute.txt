@@ -1,0 +1,5 @@
+D:\Csharpo\Mod 4 discussion board bug fix bruv\Mod 4 discussion board bug fix bruv\obj\Debug\netcoreapp3.1\Mod 4 discussion board bug fix bruv.csproj.AssemblyReference.cache
+D:\Csharpo\Mod 4 discussion board bug fix bruv\Mod 4 discussion board bug fix bruv\obj\Debug\netcoreapp3.1\Mod 4 discussion board bug fix bruv.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharpo\Mod 4 discussion board bug fix bruv\Mod 4 discussion board bug fix bruv\obj\Debug\netcoreapp3.1\Mod 4 discussion board bug fix bruv.AssemblyInfoInputs.cache
+D:\Csharpo\Mod 4 discussion board bug fix bruv\Mod 4 discussion board bug fix bruv\obj\Debug\netcoreapp3.1\Mod 4 discussion board bug fix bruv.AssemblyInfo.cs
+D:\Csharpo\Mod 4 discussion board bug fix bruv\Mod 4 discussion board bug fix bruv\obj\Debug\netcoreapp3.1\Mod 4 discussion board bug fix bruv.csproj.CoreCompileInputs.cache

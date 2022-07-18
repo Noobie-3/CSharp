@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharpo\\Module 4 Project\\Module 4 Project\\Module 4 Project.csproj": {}
+    "D:\\Csharpo\\Mod 4 discussion board bug fix bruv\\Mod 4 discussion board bug fix bruv\\Mod 4 discussion board bug fix bruv.csproj": {}
   },
   "projects": {
-    "D:\\Csharpo\\Module 4 Project\\Module 4 Project\\Module 4 Project.csproj": {
+    "D:\\Csharpo\\Mod 4 discussion board bug fix bruv\\Mod 4 discussion board bug fix bruv\\Mod 4 discussion board bug fix bruv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharpo\\Module 4 Project\\Module 4 Project\\Module 4 Project.csproj",
-        "projectName": "Module 4 Project",
-        "projectPath": "D:\\Csharpo\\Module 4 Project\\Module 4 Project\\Module 4 Project.csproj",
+        "projectUniqueName": "D:\\Csharpo\\Mod 4 discussion board bug fix bruv\\Mod 4 discussion board bug fix bruv\\Mod 4 discussion board bug fix bruv.csproj",
+        "projectName": "Mod 4 discussion board bug fix bruv",
+        "projectPath": "D:\\Csharpo\\Mod 4 discussion board bug fix bruv\\Mod 4 discussion board bug fix bruv\\Mod 4 discussion board bug fix bruv.csproj",
         "packagesPath": "C:\\Users\\Jed\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharpo\\Module 4 Project\\Module 4 Project\\obj\\",
+        "outputPath": "D:\\Csharpo\\Mod 4 discussion board bug fix bruv\\Mod 4 discussion board bug fix bruv\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jed\\AppData\\Roaming\\NuGet\\NuGet.Config",
