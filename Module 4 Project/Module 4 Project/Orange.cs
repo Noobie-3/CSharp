@@ -5,8 +5,27 @@ using System.Text;
 namespace Module_4_Project {
     class Orange : Fruit {
 
-        double Roundness;
-        bool isSpoiled;
+        private double roundness;
+        public double Roundness {
+            get {
+                return roundness;
+            }
+            set {
+                roundness = value;
+            }
+
+
+        }
+        private bool isSpoiled;
+         public bool IsSpoiled {
+            get {
+                return isSpoiled;
+            }
+            set {
+                isSpoiled = value;
+            }
+        }
+
 
     }
 }

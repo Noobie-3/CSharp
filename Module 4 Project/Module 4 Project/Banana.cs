@@ -4,8 +4,26 @@ using System.Text;
 
 namespace Module_4_Project {
     class Banana : Fruit {
-        bool IsGirthy;
-        bool isStillGreen;
+        private bool isGirthy;
+        public bool IsGirthy {
+            get {
+                return isGirthy;
+            }
+            set {
+                this.isGirthy = value;
+            }
+
+
+        }
+        public bool isStillGreen;
+        private bool IsStillGreen {
+            get {
+                return isStillGreen;
+            }
+            set {
+                this.isStillGreen = value;
+            }
+        }
 
 
     }

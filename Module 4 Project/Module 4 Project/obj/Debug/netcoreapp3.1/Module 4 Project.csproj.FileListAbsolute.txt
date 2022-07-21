@@ -12,3 +12,17 @@ D:\CSharp\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Pro
 D:\CSharp\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.dll
 D:\CSharp\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.pdb
 D:\CSharp\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.genruntimeconfig.cache
+D:\Csharpo\Module 4 Project\Module 4 Project\bin\Debug\netcoreapp3.1\Module 4 Project.exe
+D:\Csharpo\Module 4 Project\Module 4 Project\bin\Debug\netcoreapp3.1\Module 4 Project.deps.json
+D:\Csharpo\Module 4 Project\Module 4 Project\bin\Debug\netcoreapp3.1\Module 4 Project.runtimeconfig.json
+D:\Csharpo\Module 4 Project\Module 4 Project\bin\Debug\netcoreapp3.1\Module 4 Project.runtimeconfig.dev.json
+D:\Csharpo\Module 4 Project\Module 4 Project\bin\Debug\netcoreapp3.1\Module 4 Project.dll
+D:\Csharpo\Module 4 Project\Module 4 Project\bin\Debug\netcoreapp3.1\Module 4 Project.pdb
+D:\Csharpo\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.csproj.AssemblyReference.cache
+D:\Csharpo\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharpo\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.AssemblyInfoInputs.cache
+D:\Csharpo\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.AssemblyInfo.cs
+D:\Csharpo\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.csproj.CoreCompileInputs.cache
+D:\Csharpo\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.dll
+D:\Csharpo\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.pdb
+D:\Csharpo\Module 4 Project\Module 4 Project\obj\Debug\netcoreapp3.1\Module 4 Project.genruntimeconfig.cache

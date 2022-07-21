@@ -4,8 +4,27 @@ using System.Text;
 
 namespace Module_4_Project {
     class Apple : Fruit {
-        bool hasWorms;
-        int amountOfSeeds;
+
+
+        private bool hasWorms;
+        
+        public bool HasWorms{
+            get { return hasWorms; }
+            set { hasWorms = value; }
+
+
+        }
+        private int amountOfSeeds;
+
+        public int AmountOfSeeds {
+            get {
+                return amountOfSeeds;
+            }
+            set {
+                amountOfSeeds = value;
+            }
+        }
+
 
     }
 }

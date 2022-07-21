@@ -18,7 +18,7 @@ namespace Module4 {
 
         static void Main(string[] args)  
         {  
-        //do somthing ig i wonder who wrote these odd bug fixes
+        //do somthing ig I wonder who wrote these odd bug fixes
         }
 
 
