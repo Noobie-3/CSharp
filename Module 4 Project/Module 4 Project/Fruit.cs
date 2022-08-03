@@ -5,12 +5,39 @@ using System.Text;
 namespace Module_4_Project {
     class Fruit {
 
-        public double Size;
+
+        private double size;
+        public double Size {
+            get {
+                return size;
+            }
+            set {
+                size = value;
+            }
+        }
 
         public string color;
 
-        public double weight;
+        private double Color {
+            get {
+                return Color;
+            }
+            set {
+                Color = value;
+            }
+        }
 
-        
+        private double weight;
+
+        public double Weight {
+            get {
+                return weight;
+            }
+            set {
+                weight = value;
+            }
+        }
+
+
     }
 }
