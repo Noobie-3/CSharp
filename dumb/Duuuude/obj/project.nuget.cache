@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dzr3ZcwSf5ID+lvDW8S3usp17kMfa/f20qY2xE74E2CwuN0YaTm0frDgHlSgu2QTE3Uv8R1sfqxxpZcmoE7mTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jstone31\\source\\repos\\Duuuude\\Duuuude\\Duuuude.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jstone31\\.nuget\\packages\\mysqlconnector\\2.1.12\\mysqlconnector.2.1.12.nupkg.sha512",
+    "C:\\Users\\jstone31\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

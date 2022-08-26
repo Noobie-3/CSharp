@@ -1,0 +1,26 @@
+D:\Csharpo\WinForms project\WinForms project\bin\Debug\netcoreapp3.1\WinForms project.exe
+D:\Csharpo\WinForms project\WinForms project\bin\Debug\netcoreapp3.1\WinForms project.deps.json
+D:\Csharpo\WinForms project\WinForms project\bin\Debug\netcoreapp3.1\WinForms project.runtimeconfig.json
+D:\Csharpo\WinForms project\WinForms project\bin\Debug\netcoreapp3.1\WinForms project.runtimeconfig.dev.json
+D:\Csharpo\WinForms project\WinForms project\bin\Debug\netcoreapp3.1\WinForms project.dll
+D:\Csharpo\WinForms project\WinForms project\bin\Debug\netcoreapp3.1\WinForms project.pdb
+D:\Csharpo\WinForms project\WinForms project\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Csharpo\WinForms project\WinForms project\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Csharpo\WinForms project\WinForms project\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Csharpo\WinForms project\WinForms project\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Csharpo\WinForms project\WinForms project\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Csharpo\WinForms project\WinForms project\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Csharpo\WinForms project\WinForms project\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Csharpo\WinForms project\WinForms project\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Csharpo\WinForms project\WinForms project\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Csharpo\WinForms project\WinForms project\obj\Debug\netcoreapp3.1\WinForms project.csproj.AssemblyReference.cache
+D:\Csharpo\WinForms project\WinForms project\obj\Debug\netcoreapp3.1\WinForms_project.Form1.resources
+D:\Csharpo\WinForms project\WinForms project\obj\Debug\netcoreapp3.1\WinForms project.csproj.GenerateResource.cache
+D:\Csharpo\WinForms project\WinForms project\obj\Debug\netcoreapp3.1\WinForms project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharpo\WinForms project\WinForms project\obj\Debug\netcoreapp3.1\WinForms project.AssemblyInfoInputs.cache
+D:\Csharpo\WinForms project\WinForms project\obj\Debug\netcoreapp3.1\WinForms project.AssemblyInfo.cs
+D:\Csharpo\WinForms project\WinForms project\obj\Debug\netcoreapp3.1\WinForms project.csproj.CoreCompileInputs.cache
+D:\Csharpo\WinForms project\WinForms project\obj\Debug\netcoreapp3.1\WinForms project.csproj.CopyComplete
+D:\Csharpo\WinForms project\WinForms project\obj\Debug\netcoreapp3.1\WinForms project.dll
+D:\Csharpo\WinForms project\WinForms project\obj\Debug\netcoreapp3.1\WinForms project.pdb
+D:\Csharpo\WinForms project\WinForms project\obj\Debug\netcoreapp3.1\WinForms project.genruntimeconfig.cache
